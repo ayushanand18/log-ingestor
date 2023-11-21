@@ -75,9 +75,7 @@ The following are some sample queries that will be executed for validation.
 - Retrieve all logs related to resourceId "server-1234".
 - Filter logs between the timestamp "2023-09-10T00:00:00Z" and "2023-09-15T23:59:59Z". (Bonus)
 
-## Evaluation Criteria:
-
-Your submission will be evaluated based on the following criteria.
+## Benchmarks:
 
 - Volume: The ability of your system to ingest massive volumes.
 - Speed: Efficiency in returning search results.
