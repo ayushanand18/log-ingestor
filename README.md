@@ -1,6 +1,9 @@
 # Log Ingestor and Query Interface
 > A log ingestor system that can efficiently handle vast volumes of log data, and offer a simple interface for querying this data using full-text search or specific field filters.
 
+## Screenshots
+![image](https://github.com/ayushanand18/log-ingestor/assets/36472216/a19873ca-9102-4001-bab4-aae0ebac9fd6)
+
 ## Objective
 
 Develop a log ingestor system that can efficiently handle vast volumes of log data, and offer a simple interface for querying this data using full-text search or specific field filters.
