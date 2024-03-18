@@ -7,10 +7,6 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.log.ingestor.services.LogService;
-import com.log.ingestor.utils.Log;
-
-import java.util.List;
-import java.time.Instant;
 
 @RestController
 public class AddLogsController {
