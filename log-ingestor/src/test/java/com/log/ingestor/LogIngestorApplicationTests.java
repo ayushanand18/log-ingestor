@@ -1,4 +1,4 @@
-package com.log.ingestor.logingestor;
+package com.log.ingestor;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

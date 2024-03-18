@@ -1,4 +1,4 @@
-package com.log.ingestor.logingestor.utils;
+package com.log.ingestor.utils;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import java.time.Instant;

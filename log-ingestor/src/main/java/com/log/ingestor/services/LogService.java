@@ -1,4 +1,4 @@
-package com.log.ingestor.logingestor.services;
+package com.log.ingestor.services;
 
 import org.springframework.stereotype.Service;
 import com.fasterxml.jackson.databind.ObjectMapper;
@@ -9,7 +9,7 @@ import java.time.Instant;
 import java.util.ArrayList;
 import java.util.List;
 
-import com.log.ingestor.logingestor.utils.Log;
+import com.log.ingestor.utils.Log;
 
 @Service
 public class LogService {

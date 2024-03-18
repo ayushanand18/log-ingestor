@@ -1,4 +1,4 @@
-package com.log.ingestor.logingestor.controllers;
+package com.log.ingestor.controllers;
 
 import org.springframework.format.annotation.DateTimeFormat;
 import org.springframework.web.bind.annotation.GetMapping;
@@ -8,8 +8,8 @@ import org.springframework.web.bind.annotation.RestController;
 import java.util.List;
 import java.time.Instant;
 
-import com.log.ingestor.logingestor.services.LogService;
-import com.log.ingestor.logingestor.utils.Log;
+import com.log.ingestor.services.LogService;
+import com.log.ingestor.utils.Log;
 
 @RestController
 public class GetLogsController {

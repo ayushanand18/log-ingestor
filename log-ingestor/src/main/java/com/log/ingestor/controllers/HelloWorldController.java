@@ -1,4 +1,4 @@
-package com.log.ingestor.logingestor;
+package com.log.ingestor.controllers;
 
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;

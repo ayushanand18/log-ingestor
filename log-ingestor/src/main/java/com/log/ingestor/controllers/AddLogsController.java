@@ -1,4 +1,4 @@
-package com.log.ingestor.logingestor.controllers;
+package com.log.ingestor.controllers;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
@@ -6,8 +6,8 @@ import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.log.ingestor.logingestor.services.LogService;
-import com.log.ingestor.logingestor.utils.Log;
+import com.log.ingestor.services.LogService;
+import com.log.ingestor.utils.Log;
 
 import java.util.List;
 import java.time.Instant;
